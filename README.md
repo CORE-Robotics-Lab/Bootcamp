@@ -12,5 +12,5 @@ This repository contains code for Bootcamp series of CORE Robotics Lab at Georgi
 7. Variational Inference / ELBO
 8. KKT Conditions
 
-## Copyright
-The material should only be used for education and academic purposes. 
+## License
+[GNU GPL-v3](LICENSE)
