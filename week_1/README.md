@@ -10,5 +10,8 @@ Tested with
 - Numpy 1.15.4
 - Matplotlib 3.0.2 
 
+## Expected running result
+![expected_resulting_figure](week1.png)
+
 ## Copyright
 Copyright Letian Chen and Matthew Gombolay, 2020.
